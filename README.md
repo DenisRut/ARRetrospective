@@ -4,6 +4,9 @@ University Project - AR Gallery for Video Game Enthusiasts
 Pfad zum Repository:
 https://github.com/DenisRut/ARRetrospective.git
 
+Im folgenden Ordner liegen Video und auszudruckende Imagemarker vor:
+PROJEKTDATEIEN
+
 Idee:
 Das Projekt soll dem Nutzer ermöglichen in Videospielszenen seines Lieblingstitels abzutauchen. Dabei bietet der Produzent eine Reihe an vorgefertigten Bildern an, die sich der Nutzer auswählen kann und auf Anfrage erweitert werden kann. Die Bilder aus den Videospielszenen rahmt sich der Nutzer ein und klebt den dazugehörigen Imagemarker auf die Ecke unten rechts am Bilderrahmen. Sobald der Nutzer einen Imagemarker gescannt hat wird ein Video passend zur abgebildeten Videospielszene abgespielt, sowie eine Information zum entsprechenden Videospiel.
 Der Bilderrahmen in dem das Szenenbild eingeklebt bzw. eingefügt wird muss eine Größe von 25 x 25cm besitzen (derzeitige Verwendung des Ikea-Bilderrahmens "SANNAHED"), damit der dafür entsprechende Imagemarker beim Tracken dessen den virtuellen Bilderrahmen und Video mit der korrekten Größe auf den Rahmen in der reelen Welt projezieren kann.
@@ -14,6 +17,7 @@ Die Grundidee existiert bereits und wurde nach eigener Vorstellung nachentwickel
 Quellen: 
 "The Shadow Box Gallery – Youtube" - https://www.youtube.com/watch?v=urvSEezpap4
 "Video Game Shadow Box – Homepage" - https://www.videogameshadowbox.com/
+
 Umsetzung & Anwendung:
 Folgende Software (-Komponenten) wurden bei der Umsetzung des Projekts angewandt:
 Unity Personal (Version  2021.3.13f1)
