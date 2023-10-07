@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ImageMarker_SoM_FirstBoss" size="0.025000 0.025000" />
+    <ImageTarget name="ImageMarker_Terranigma_LastBoss" size="0.025000 0.025000" />
+    <ImageTarget name="ImageMarker_ALttP_MS" size="0.025000 0.025000" />
+  </Tracking>
+</QCARConfig>
